@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ),
       title: 'stockworkersmobile',
       debugShowCheckedModeBanner: false,
-      initialRoute: AppRoutes.splashScreen,
+      initialRoute: AppRoutes.appNavigationScreen,
       routes: AppRoutes.routes,
     );
   }
